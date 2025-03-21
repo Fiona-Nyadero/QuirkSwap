@@ -32,7 +32,7 @@ Create a `manifest.json` file with the following:
 }
 
 ### **Step 2**
-Create a `_.html` file for the `default_popup` section
+Create a `_.html` file for the `default_popup` section and supporting js and css files.
 
 
 ## An example of an Extension Project Structure
