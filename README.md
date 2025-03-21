@@ -1,4 +1,4 @@
-# QuirkSwap 💡😂  
+# 💡 QuirkSwap 😂  
 A Chrome extension that replaces online ads with fun trivia, jokes, and witty remarks.  
 
 ## Features  
