@@ -1,7 +1,8 @@
 # Hello Extensions
 *Notes on Creating my first Chrome Extension*
 ## Description
-This extension displays "Hello Extensions" when user clicks on the extension toolbar icon as follows. 👇👇👇
+This extension displays "Hello Extensions" when user clicks on the extension toolbar icon as follows.
+👇👇👇
 ![Extension example](hello_extension.png)
 
 ## Procedure
@@ -31,4 +32,4 @@ Create a `manifest.json` file with the following:
 }
 
 ### **Step 2**
-Create a `name.html` file for the `default_popup` section
+Create a `_.html` file for the `default_popup` section
