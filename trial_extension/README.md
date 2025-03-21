@@ -37,14 +37,25 @@ Create a `_.html` file for the `default_popup` section
 
 ## An example of an Extension Project Structure
 |__ projectdirectory/
+    
     |__ manifest.json
+    
     |__ background.js
+    
     |__ scripts/
+    
         |__ content.js
+    
         |__ react.production.min.js
+    
     |__ popup/
+    
         |__ popup.html
+    
         |__ popup.js
+    
         |__ popup.css
+    
     |__ images/
+    
         |__ iconX.png
