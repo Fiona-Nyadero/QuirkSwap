@@ -11,19 +11,13 @@ A step by step guide to recreating this Chrome extension
 Create a `manifest.json` file with the following:
 
 {
-    
-    "name": "",
-    
+    "name": "", 
     "description": "",
-    
     "version": "",
-    
     "manifest_version": ,
-    
     "action": {
         "default_popup": "",
-        "default_icon": ""
-    
+        "default_icon": "" 
     }
 
 }
