@@ -36,6 +36,7 @@ Create a `_.html` file for the `default_popup` section
 
 
 ## An example of an Extension Project Structure
+{
 |__ projectdirectory/
     
     |__ manifest.json
@@ -59,3 +60,4 @@ Create a `_.html` file for the `default_popup` section
     |__ images/
     
         |__ iconX.png
+}
